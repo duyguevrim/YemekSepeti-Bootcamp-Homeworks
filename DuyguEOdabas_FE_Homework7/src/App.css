@@ -1,0 +1,14 @@
+.react-datepicker-wrapper {
+    display: flex !important;
+    padding: 0;
+    border: 0;
+    height: 100% !important;
+}
+
+.w-30 {
+    width: 30% !important;
+}
+
+.primary-bg {
+    background-color: #F3F6F9 !important;
+}

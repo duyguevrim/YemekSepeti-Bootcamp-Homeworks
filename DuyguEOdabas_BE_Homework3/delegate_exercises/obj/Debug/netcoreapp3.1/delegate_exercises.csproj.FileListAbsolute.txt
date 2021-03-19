@@ -1,0 +1,13 @@
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\bin\Debug\netcoreapp3.1\delegate_exercises.exe
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\bin\Debug\netcoreapp3.1\delegate_exercises.deps.json
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\bin\Debug\netcoreapp3.1\delegate_exercises.runtimeconfig.json
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\bin\Debug\netcoreapp3.1\delegate_exercises.runtimeconfig.dev.json
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\bin\Debug\netcoreapp3.1\delegate_exercises.dll
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\bin\Debug\netcoreapp3.1\delegate_exercises.pdb
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.csprojAssemblyReference.cache
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.AssemblyInfoInputs.cache
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.AssemblyInfo.cs
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.csproj.CoreCompileInputs.cache
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.dll
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.pdb
+C:\Users\duyguevrim\source\repos\homework_3\delegate_exercises\obj\Debug\netcoreapp3.1\delegate_exercises.genruntimeconfig.cache

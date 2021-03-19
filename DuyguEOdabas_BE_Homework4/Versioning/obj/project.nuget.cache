@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oukDWV34RLOCxumg55WrrQoFyvrxUmapYZnZyeesRlTRrB2fe83HLyo5ND1iUB8Nl3rjlcw50CjALkUEnjPSfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duyguevrim\\Desktop\\Kodluyoruz-Bootcamp\\DuyguEOdabas_BE_Homework4\\Versioning\\Versioning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duyguevrim\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

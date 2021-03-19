@@ -1,0 +1,12 @@
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\bin\Debug\netcoreapp3.1\predicate_delegate_example.exe
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\bin\Debug\netcoreapp3.1\predicate_delegate_example.deps.json
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\bin\Debug\netcoreapp3.1\predicate_delegate_example.runtimeconfig.json
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\bin\Debug\netcoreapp3.1\predicate_delegate_example.runtimeconfig.dev.json
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\bin\Debug\netcoreapp3.1\predicate_delegate_example.dll
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\bin\Debug\netcoreapp3.1\predicate_delegate_example.pdb
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\obj\Debug\netcoreapp3.1\predicate_delegate_example.AssemblyInfoInputs.cache
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\obj\Debug\netcoreapp3.1\predicate_delegate_example.AssemblyInfo.cs
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\obj\Debug\netcoreapp3.1\predicate_delegate_example.csproj.CoreCompileInputs.cache
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\obj\Debug\netcoreapp3.1\predicate_delegate_example.dll
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\obj\Debug\netcoreapp3.1\predicate_delegate_example.pdb
+C:\Users\duyguevrim\source\repos\homework_3\predicate_delegate_example\obj\Debug\netcoreapp3.1\predicate_delegate_example.genruntimeconfig.cache

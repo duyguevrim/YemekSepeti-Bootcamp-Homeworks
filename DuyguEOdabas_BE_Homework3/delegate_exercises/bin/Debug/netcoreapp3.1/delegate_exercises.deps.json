@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "delegate_exercises/1.0.0": {
+        "runtime": {
+          "delegate_exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegate_exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

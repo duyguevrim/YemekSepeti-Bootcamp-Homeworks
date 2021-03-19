@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.DI.Extensions\\GenericRepo.DI.Extensions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj",
+        "projectName": "GenericRepo.Data",
+        "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj",
+        "packagesPath": "C:\\Users\\duyguevrim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duyguevrim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj": {
+                "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.DI.Extensions\\GenericRepo.DI.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.DI.Extensions\\GenericRepo.DI.Extensions.csproj",
+        "projectName": "GenericRepo.DI.Extensions",
+        "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.DI.Extensions\\GenericRepo.DI.Extensions.csproj",
+        "packagesPath": "C:\\Users\\duyguevrim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.DI.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duyguevrim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj": {
+                "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj"
+              },
+              "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Services\\GenericRepo.Services.csproj": {
+                "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Services\\GenericRepo.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj",
+        "projectName": "GenericRepo.Domain",
+        "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj",
+        "packagesPath": "C:\\Users\\duyguevrim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duyguevrim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Services\\GenericRepo.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Services\\GenericRepo.Services.csproj",
+        "projectName": "GenericRepo.Services",
+        "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Services\\GenericRepo.Services.csproj",
+        "packagesPath": "C:\\Users\\duyguevrim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duyguevrim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj": {
+                "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Data\\GenericRepo.Data.csproj"
+              },
+              "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj": {
+                "projectPath": "C:\\Users\\duyguevrim\\source\\repos\\YemekSepeti_Hw4\\GenericRepo\\GenericRepo.Domain\\GenericRepo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

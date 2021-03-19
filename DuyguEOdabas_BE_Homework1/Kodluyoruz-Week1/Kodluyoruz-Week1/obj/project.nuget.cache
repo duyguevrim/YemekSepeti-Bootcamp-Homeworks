@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "17Hx3QeUCwkXMcSe8s9CjMQHW+c6c8uRMZkMgJoMPmg+zJFqKhAl0pFaBSFy8YRdtv/jyi1u0ZBc/B75s+gImA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duyguevrim\\source\\repos\\week1-homework1-duyguevrim\\Kodluyoruz-Week1\\Kodluyoruz-Week1\\Kodluyoruz-Week1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duyguevrim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

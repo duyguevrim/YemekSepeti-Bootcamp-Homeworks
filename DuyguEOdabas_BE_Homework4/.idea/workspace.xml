@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9cba1c8-faa9-416d-a5cc-df5ddd0d2b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/YemekSepeti_Hw4/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/YemekSepeti_Hw4/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/YemekSepeti_Hw4/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/YemekSepeti_Hw4/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanCodeExample/obj/Debug/netcoreapp3.1/CleanCodeExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CleanCodeExample/obj/Debug/netcoreapp3.1/CleanCodeExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DILifetimeExample/obj/Debug/netcoreapp3.1/DILifetimeExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DILifetimeExample/obj/Debug/netcoreapp3.1/DILifetimeExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/.vs/GenericRepoExample/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/.vs/GenericRepoExample/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/.vs/GenericRepoExample/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/.vs/GenericRepoExample/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/Debug/net5.0/MusicMarket.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/Debug/net5.0/MusicMarket.Api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/MusicMarket.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/MusicMarket.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/IUnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/IUnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/Debug/net5.0/MusicMarket.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/Debug/net5.0/MusicMarket.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/MusicMarket.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/MusicMarket.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/MusicMarket.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/MusicMarket.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/Debug/net5.0/MusicMarket.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/Debug/net5.0/MusicMarket.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/MusicMarket.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/MusicMarket.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/MusicMarket.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/MusicMarket.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/Release/net5.0/MusicMarket.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/Release/net5.0/MusicMarket.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/Services/IArtistService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/Services/IMusicService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/Debug/net5.0/MusicMarket.Services.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/Debug/net5.0/MusicMarket.Services.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/MusicMarket.Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/MusicMarket.Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GenericRepoExample/MusicMarket.Services/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPWhiteListExample/Attributes/IpControlAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IPWhiteListExample/Attributes/IpControlAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPWhiteListExample/Controllers/ProductsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPWhiteListExample/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/IPWhiteListExample/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPWhiteListExample/obj/Debug/netcoreapp3.1/IPWhiteListExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IPWhiteListExample/obj/Debug/netcoreapp3.1/IPWhiteListExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPWhiteListExample/obj/Release/netcoreapp3.1/IPWhiteListExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IPWhiteListExample/obj/Release/netcoreapp3.1/IPWhiteListExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiddlewareLogger/obj/Debug/netcoreapp3.1/MiddlewareLogger.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MiddlewareLogger/obj/Debug/netcoreapp3.1/MiddlewareLogger.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiddlewareLogger/obj/Release/netcoreapp3.1/MiddlewareLogger.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MiddlewareLogger/obj/Release/netcoreapp3.1/MiddlewareLogger.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwaggerExample/obj/Debug/netcoreapp3.1/SwaggerExample.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwaggerExample/obj/Debug/netcoreapp3.1/SwaggerExample.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Versioning/obj/Debug/netcoreapp3.1/Versioning.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Versioning/obj/Debug/netcoreapp3.1/Versioning.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkerServiceExp/WorkerServiceExp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WorkerServiceExp/WorkerServiceExp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkerServiceExp/obj/Debug/netcoreapp3.1/WorkerServiceExp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WorkerServiceExp/obj/Debug/netcoreapp3.1/WorkerServiceExp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkerServiceExp/obj/Release/netcoreapp3.1/WorkerServiceExp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WorkerServiceExp/obj/Release/netcoreapp3.1/WorkerServiceExp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YemekSepeti_Hw4.sln" beforeDir="false" afterPath="$PROJECT_DIR$/YemekSepeti_Hw4.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pr5bLtYwbtP4qTjmAQktAhd5N6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9cba1c8-faa9-416d-a5cc-df5ddd0d2b04" name="Default Changelist" comment="" />
+      <created>1615928440859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615928440859</updated>
+      <workItem from="1615928442881" duration="13000" />
+    </task>
+    <servers />
+  </component>
+</project>

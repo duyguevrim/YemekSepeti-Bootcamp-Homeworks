@@ -1,0 +1,13 @@
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\bin\Debug\netcoreapp3.1\indexer_example.exe
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\bin\Debug\netcoreapp3.1\indexer_example.deps.json
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\bin\Debug\netcoreapp3.1\indexer_example.runtimeconfig.json
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\bin\Debug\netcoreapp3.1\indexer_example.runtimeconfig.dev.json
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\bin\Debug\netcoreapp3.1\indexer_example.dll
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\bin\Debug\netcoreapp3.1\indexer_example.pdb
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.AssemblyInfoInputs.cache
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.AssemblyInfo.cs
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.csproj.CoreCompileInputs.cache
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.dll
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.pdb
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.genruntimeconfig.cache
+C:\Users\duyguevrim\source\repos\homework_3\indexer_example\obj\Debug\netcoreapp3.1\indexer_example.csprojAssemblyReference.cache

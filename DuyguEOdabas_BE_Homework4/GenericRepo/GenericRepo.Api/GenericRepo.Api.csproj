@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GenericRepo.Data\GenericRepo.Data.csproj" />
+    <ProjectReference Include="..\GenericRepo.DI.Extensions\GenericRepo.DI.Extensions.csproj" />
+    <ProjectReference Include="..\GenericRepo.Domain\GenericRepo.Domain.csproj" />
+    <ProjectReference Include="..\GenericRepo.Services\GenericRepo.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
