@@ -1,16 +1,11 @@
 # In-Memory WebApi Projesi
 
-Sıfırdan Empty şeklinde ilerlenip bir WebAPI projesi oluşturulacak.
-API Product üzerine olacak 
+- Sıfırdan bir WebAPI projesi oluşturuldu.
 
-API Get - Post - Put - Delete - Options  methodlarını içerecek ve bunlara göre yapılması gerekenler sorunsuz çalışmalı.
+- Http Get - Post - Put - Delete  methodları kullanıldı.
 
-Database ile çalışmadığımız için In-Memory bir liste tutulacak
-List WEBAPI çalışma zamanında ayakta kalması için singleton Pattern'i kullanabilirsiniz ( Core AddSingleton kullanılmayacak)
+- Database yerine In-Memory bir liste tutuldu.
 
-Singleton dizayn'ı kullanılmadan önce ;
-https://csharpindepth.com/articles/singleton konuyla ilgili önerilerinin okunmasını tavsiye ediyorum. Bu kısmı özellikle soracağım :)  Kendi pattern'inizi de makalede en çok  yatkın olduğunuz yöneteme göre tasarlamanızı istiyorum.
+- Projenin çalışma zamanında ayakta kalabilmesi için Singleton Pattern kullanıldı. [Yararlanılan Link](https://csharpindepth.com/articles/singleton)
 
-PostMan üzerinden tüm endpointlerimizi test edebiliyor olmalıyız.
-
-Bonus : Proje kapanıp açıldığında Verileri kaybetmeyelim.
+- Proje açıp kapatıldığında ver kaybebetmemek çin veriler dosyaya yazıldı.
